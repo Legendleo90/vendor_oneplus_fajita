@@ -590,7 +590,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/fajita/proprietary/vendor/lib/libbluetooth_audio_session_qti.so:$(TARGET_COPY_OUT_VENDOR)/lib/libbluetooth_audio_session_qti.so \
     vendor/oneplus/fajita/proprietary/vendor/lib/libbluetooth_audio_session_qti_2_1.so:$(TARGET_COPY_OUT_VENDOR)/lib/libbluetooth_audio_session_qti_2_1.so \
     vendor/oneplus/fajita/proprietary/vendor/lib/libblur_halide.so:$(TARGET_COPY_OUT_VENDOR)/lib/libblur_halide.so \
-    vendor/oneplus/fajita/proprietary/vendor/lib/libblur_halide.so:$(TARGET_COPY_OUT_VENDOR)/lib/libblur_halide.so
+    vendor/oneplus/fajita/proprietary/vendor/lib/libblur_halide.so:$(TARGET_COPY_OUT_VENDOR)/lib/libblur_halide.so \
     vendor/oneplus/fajita/proprietary/vendor/lib/libc++_extra.so:$(TARGET_COPY_OUT_VENDOR)/lib/libc++_extra.so \
     vendor/oneplus/fajita/proprietary/vendor/lib/libc2d30_bltlib.so:$(TARGET_COPY_OUT_VENDOR)/lib/libc2d30_bltlib.so \
     vendor/oneplus/fajita/proprietary/vendor/lib/libcamxfdalgov7.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcamxfdalgov7.so \
@@ -617,7 +617,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/fajita/proprietary/vendor/lib/libgpudataproducer.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgpudataproducer.so \
     vendor/oneplus/fajita/proprietary/vendor/lib/libgsl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgsl.so \
     vendor/oneplus/fajita/proprietary/vendor/lib/libhalide_hexagon_host.so:$(TARGET_COPY_OUT_VENDOR)/lib/libhalide_hexagon_host.so \
-    vendor/oneplus/fajita/proprietary/vendor/lib/libhalide_hexagon_host.so:$(TARGET_COPY_OUT_VENDOR)/lib/libhalide_hexagon
+    vendor/oneplus/fajita/proprietary/vendor/lib/libhalide_hexagon_host.so:$(TARGET_COPY_OUT_VENDOR)/lib/libhalide_hexagon \
     vendor/oneplus/fajita/proprietary/vendor/lib/libidl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libidl.so \
     vendor/oneplus/fajita/proprietary/vendor/lib/liblistensoundmodel2.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblistensoundmodel2.so \
     vendor/oneplus/fajita/proprietary/vendor/lib/libllvm-glnext.so:$(TARGET_COPY_OUT_VENDOR)/lib/libllvm-glnext.so \
